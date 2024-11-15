@@ -23,11 +23,11 @@
 *  Delkurs-organisation? Vad menas med denna punkt?*
 
 *  Genomgång av relevanta verktyg:
-  - Teams
-  - Github
-  - VS Code
-  - Menti
-  - (Plurasight.com)
+    - Teams
+    - Github
+    - VS Code
+    - Menti
+    - (Plurasight.com)
 
 * Extensions i VS code
   - Liverserver
