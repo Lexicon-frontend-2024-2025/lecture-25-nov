@@ -55,6 +55,7 @@
 
 #### Utvalda för denna dag:
 * [Nytt i HTML5/Semantiska element (del 1 & 2 av kursen)](https://app.pluralsight.com/library/courses/html-5-css-3-overview-tag-attribute-selector-additions/table-of-contents)
+* [WAVE extension genomgång](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)
 
 #### Läsning
 * [HTML i VS Code](https://code.visualstudio.com/Docs/languages/html)
