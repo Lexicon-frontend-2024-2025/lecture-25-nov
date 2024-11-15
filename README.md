@@ -28,7 +28,7 @@
     - VS Code
     - Menti
     - (Plurasight.com)
-    - Developer tools och Wawei Browser:
+    - Developer tools och Wave Browser:
       - [WAVE extension genomgång](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)
 
 * Extensions i VS code
