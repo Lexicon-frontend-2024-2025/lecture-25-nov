@@ -32,7 +32,6 @@
 * Extensions i VS code
   - Liverserver
   - Live Preview
-  - asdf
 
 * Förhållningssät
   - Kamera på
