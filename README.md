@@ -25,8 +25,8 @@
     - Teams
     - Github
     - VS Code
-    - Menti
-    - (Plurasight.com)
+    - Menti/Poll
+    - (Plurasight.com) (Eventuellt inte studenter fått inlogg än)
     - Developer tools och Wave Browser:
       - [WAVE extension genomgång](https://app.pluralsight.com/ilx/video-courses/92e5a2e9-02ba-44d3-80f7-7992e6d9512d/d4c9e95a-c0cc-4120-8c4e-84442e451a7d/81c79172-91fe-46fe-818e-dbb37cc7045b)
 
@@ -45,8 +45,6 @@
 * Eventuellt: Börja med dages "Material" Se längre ned.
 
 * Checkar in närvaro 16:30
-
-* Menti?
 
 * Dagsavslut 17:00
 
