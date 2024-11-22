@@ -20,7 +20,6 @@
   - E-learning - pluralsight.com
   - Kursschema
 
-*  Delkurs-organisation? Vad menas med denna punkt?*
 
 *  Genomgång av relevanta verktyg:
     - Teams
